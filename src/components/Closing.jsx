@@ -32,7 +32,8 @@ function Closing() {
         {/* Greeting text */}
         <div className='w-[90%] max-w-[400px]'>
           <p className="z-10 text-white text-center text-xl font-semibold px-4 drop-shadow-lg">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, delectus? Ut delectus voluptatibus consequatur ex.
+            See you at our Valentine day!!!<br/>
+            -6.315483435311162, 106.65208107116416
           </p>
 
         {/* Button */}
